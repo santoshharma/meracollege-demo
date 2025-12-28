@@ -1,2 +1,2 @@
 # meracollege-demo
-This ig first repo
+### This is first repo
